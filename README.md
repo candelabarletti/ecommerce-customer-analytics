@@ -96,5 +96,5 @@ No real personal data is used.
 
 ## 👤 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**Candela Barletti**  
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/candela-barletti-fiustudent/)) · [GitHub](https://github.com/yourusername)
