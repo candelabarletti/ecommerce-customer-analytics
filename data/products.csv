@@ -1,0 +1,51 @@
+product_id,product_name,category,price,cost
+P001,Wireless Headphones,Electronics,362.29,177.41
+P002,Smart Watch,Electronics,499.38,151.78
+P003,Bluetooth Speaker,Electronics,140.08,69.91
+P004,Laptop Stand,Electronics,111.08,39.26
+P005,USB Hub,Electronics,83.32,49.02
+P006,Phone Case,Electronics,127.7,44.01
+P007,Charging Pad,Electronics,371.02,157.46
+P008,Webcam,Electronics,498.77,162.4
+P009,Keyboard,Electronics,414.73,248.45
+P010,Mouse,Electronics,485.4,218.75
+P011,T-Shirt,Clothing,148.19,70.93
+P012,Jeans,Clothing,105.16,33.66
+P013,Sneakers,Clothing,110.79,58.16
+P014,Hoodie,Clothing,89.25,32.4
+P015,Jacket,Clothing,54.2,30.86
+P016,Dress,Clothing,55.49,20.06
+P017,Shorts,Clothing,36.26,12.95
+P018,Socks,Clothing,110.79,34.45
+P019,Cap,Clothing,109.53,48.37
+P020,Belt,Clothing,38.5,18.07
+P021,Coffee Mug,Home & Living,121.22,38.76
+P022,Desk Lamp,Home & Living,82.79,44.1
+P023,Throw Pillow,Home & Living,295.84,128.98
+P024,Candle Set,Home & Living,241.78,110.57
+P025,Wall Art,Home & Living,86.29,37.3
+P026,Plant Pot,Home & Living,158.33,66.53
+P027,Storage Box,Home & Living,121.05,56.64
+P028,Towel Set,Home & Living,180.24,62.47
+P029,Mirror,Home & Living,150.87,53.5
+P030,Picture Frame,Home & Living,295.24,164.9
+P031,Face Serum,Beauty,21.68,12.66
+P032,Moisturizer,Beauty,89.58,36.91
+P033,Lip Balm,Beauty,15.92,6.07
+P034,Shampoo,Beauty,45.83,22.6
+P035,Conditioner,Beauty,74.52,31.49
+P036,Body Lotion,Beauty,53.08,16.33
+P037,Perfume,Beauty,46.97,16.29
+P038,Nail Polish,Beauty,46.85,24.12
+P039,Eye Cream,Beauty,61.74,30.73
+P040,Sunscreen,Beauty,21.28,6.56
+P041,Yoga Mat,Sports,96.33,35.31
+P042,Resistance Bands,Sports,41.69,15.4
+P043,Water Bottle,Sports,129.81,65.11
+P044,Running Shoes,Sports,141.41,43.26
+P045,Gym Bag,Sports,53.88,17.85
+P046,Jump Rope,Sports,211.54,114.23
+P047,Foam Roller,Sports,149.04,52.7
+P048,Protein Shaker,Sports,157.25,77.97
+P049,Fitness Tracker,Sports,197.75,73.46
+P050,Swim Goggles,Sports,54.03,17.82
